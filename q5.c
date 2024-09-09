@@ -1,3 +1,4 @@
+//24K-1011
 #include<stdio.h>
 int main(){
 	int P,R,T;
